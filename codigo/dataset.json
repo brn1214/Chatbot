@@ -1,0 +1,4 @@
+[
+  {"pregunta": "¿Cuánto cuesta el envío?", "respuesta_esperada": "El envío cuesta $100."},
+  {"pregunta": "¿Dónde está mi pedido?", "respuesta_esperada": "Puedes rastrear tu pedido en nuestro sitio web."}
+]
